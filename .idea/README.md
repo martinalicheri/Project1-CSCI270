@@ -4,7 +4,7 @@
 
 If you want to learn more about the faith through programming, this web is for you!
 
-<img src="Project-1-CSCI270-computer.png" alt="carlo" style="border-radius: 1rem; float: right; width:40%; height:auto; margin-right: 12rem;">
+<!-- <img src="Project-1-CSCI270-computer.png" alt="carlo" style="border-radius: 1rem; float: right; width:40%; height:auto; margin-right: 12rem;">-->
 
 ### Table of Contents:
 - [Purpose](#purpose)
@@ -35,7 +35,7 @@ will see the project that I worked much on. Hope you enjoy!
 [Click here to access the website!](http://localhost:63342/csci270/PROJECT1/MiracleDex.html?_ijt=jamjbbnah283ircibpd9o5m3bg)
 
 ---
-<img src="Project-1-CSCI270-phone.png" style="border-radius: 1rem; float:right; width:13%; height:auto; margin-right: 30rem;">
+<!--<img src="Project-1-CSCI270-phone.png" style="border-radius: 1rem; float:right; width:13%; height:auto; margin-right: 30rem;">-->
 
 ## Usage
 
