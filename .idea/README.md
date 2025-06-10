@@ -1,7 +1,5 @@
 # PROJECT 1
 
-## Audience
-
 If you want to learn more about the faith through programming, this web is for you!
 
 <!-- <img src="Project-1-CSCI270-computer.png" alt="carlo" style="border-radius: 1rem; float: right; width:40%; height:auto; margin-right: 12rem;">-->
