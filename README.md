@@ -28,7 +28,7 @@ ranging from incorrupt saints to bleeding Hosts!
 
 ## Installation
 
-Being a web, it is fairly easy to access. Just copy this link in your browser and you<br>
+Being a web, it is fairly easy to access: just copy this link in your browser and you<br>
 will see the project that I worked much on. Hope you enjoy!
 
 [Click here to access the website!](http://localhost:63342/csci270/PROJECT1/MiracleDex.html?_ijt=jamjbbnah283ircibpd9o5m3bg)
