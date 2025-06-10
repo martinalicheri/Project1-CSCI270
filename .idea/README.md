@@ -12,6 +12,7 @@ If you want to learn more about the faith through programming, this web is for y
 - [Usage](#usage)
 - [Credits](#credits)
 
+---
 
 ## Purpose:
 The result of this Project aims at demonstrating the acquired skills during the first<br>
