@@ -34,8 +34,6 @@ will see the project that I worked much on. Hope you enjoy!
 [Click here to access the website!](http://localhost:63342/csci270/PROJECT1/MiracleDex.html?_ijt=jamjbbnah283ircibpd9o5m3bg)
 
 ---
-<!--<img src="Project-1-CSCI270-phone.png" style="border-radius: 1rem; float:right; width:13%; height:auto; margin-right: 30rem;">-->
-<img src="Project-1-CSCI270-phone.png" style="border-radius: 1rem; float:right; width:13%; height:auto;">
 
 ## Usage
 
