@@ -6,7 +6,7 @@ I DO NOT CONSENT TO AI ASSISTED GRADING
 **Course:** CSCI 270 – Web/Mobile App Development  <br>
 **Project Title:** MiracleDex  <br>
 **Submission Date:** Monday, June 9th<br>
-**GitHub Repo:** https://github.com/martinalicheri/Project1-CSCI270
+**GitHub Repo:** https://github.com/martinalicheri/Project1-CSCI270 <br>
 **Live Site (GitHub Pages):** https://martinalicheri.github.io/
 
 ---
