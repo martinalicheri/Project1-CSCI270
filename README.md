@@ -59,6 +59,8 @@ Hope you enjoy and learn more about our faith!
 ## Credits
 
 I asked ChatGPT for:
+- help in the meta code for mobile responsiveness:
+  - told me: `<meta name="viewport" content="width=device-width, initial-scale=1.0">`
 - help in setting the background image properly (what background functions to use)
     - told me: `background-size: cover;`
 - a visual comparison between rem, em, %, and px.
