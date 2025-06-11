@@ -201,7 +201,7 @@ to make and use a repo for a personal project!
 ## 🧠 Final Reflection
 
 - *Imagine you're explaining this project to a friend who doesn’t code.* <br>
-- *What does your app do? What are you most proud of? What was the hardest part to get working?*
+*What does your app do? What are you most proud of? What was the hardest part to get working?*
 
 This website dynamically displays cards with information regarding certain miracles of the faith.<br>
 What I am most proud of is the first thing one sees when they open the app: the title and<br>
