@@ -188,7 +188,7 @@ I noticed it in that the web didn't wait for the background image to load to dis
 - **Live GitHub Pages Site:** https://martinalicheri.github.io/
 
 ### 🖋️ Reflection
-How did using GitHub affect your development process? What new Git or GitHub skills did you gain?
+- How did using GitHub affect your development process? What new Git or GitHub skills did you gain?
 
 In all truth, I had barely used GitHub before; I only did the bare minimum for the assignment.<br>
 Now that I actually had to make a usable repo and a page using GitHub, I found it very confusing<br>
@@ -200,8 +200,8 @@ to make and use a repo for a personal project!
 
 ## 🧠 Final Reflection
 
-*Imagine you're explaining this project to a friend who doesn’t code.<br>
-What does your app do? What are you most proud of? What was the hardest part to get working?*
+- *Imagine you're explaining this project to a friend who doesn’t code.* <br>
+- *What does your app do? What are you most proud of? What was the hardest part to get working?*
 
 This website dynamically displays cards with information regarding certain miracles of the faith.<br>
 What I am most proud of is the first thing one sees when they open the app: the title and<br>
@@ -210,7 +210,7 @@ The hardest part for me was the **"Load More"** button. I did not know how to ma
 dynamically when all the cards had been fetched already. However, it was very satisfying when<br>
 I thought of hidding them until the button was clicked!
 
-*Reflect on both the technical and the spiritual aspects of building a project about Catholic miracles.*
+- *Reflect on both the technical and the spiritual aspects of building a project about Catholic miracles.*
 
 This project, although it seemed very simple, took me a lot of time. I had to wrestle through a lot<br>
 of concepts in making it, even concepts that I thought I had understood. I have to say, making the<br>
