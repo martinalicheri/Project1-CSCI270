@@ -59,14 +59,16 @@ Hope you enjoy and learn more about our faith!
 ## Credits
 
 I asked ChatGPT for:
-- help in the meta code for mobile responsiveness:
+- help in the meta code for mobile responsiveness
   - told me: `<meta name="viewport" content="width=device-width, initial-scale=1.0">`
 - help in setting the background image properly (what background functions to use)
     - told me: `background-size: cover;`
-- a visual comparison between rem, em, %, and px.
-    - told me what each one means, and how some are responsive while others are not.
+- a visual comparison between rem, em, %, and px
+    - told me what each one means, and how some are responsive while others are not
 - how clamp function works, and what vw is
-    - the `clamp` function has 3 parameters: `minimum`, `preferred`, and `maximum`.
+    - the `clamp` function has 3 parameters: `minimum`, `preferred`, and `maximum`
     - `vw` is viewpoint width (based on width of browser's viewpoint)
 - the reason why I had padding on the left side of the screen
-    - told me I had to change the body's margin-left to 0.
+    - told me I had to change the body's margin-left to 0
+- help in converting `md` file `pdf`
+    - told me to convert to `html` first
