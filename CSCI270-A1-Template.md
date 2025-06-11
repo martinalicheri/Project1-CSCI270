@@ -23,15 +23,21 @@ I DO NOT CONSENT TO AI ASSISTED GRADING
 ### 📸 Screenshots
 > Paste 1–2 screenshots showing your site on desktop and mobile.
 
-Computer:<br><br>
+
+**Computer:**<br><br>
 ![Project-1-CSCI270-computer.png](Project-1-CSCI270-computer.png)<br>
-<br>Phone:<br><br>
+
+<br>**Phone:**<br><br>
 ![Project-1-CSCI270-phone.png](Project-1-CSCI270-phone.png)
+
+<br>
 
 ### 🔍 Code Snippets
 > Include relevant HTML and CSS snippets here (layout structure, responsive styling, etc.).
 
-HTML:
+<br>
+
+**HTML:**
 ```html
 <!-- This is to make the categories' menu --> 
 <div class="grid">
@@ -46,7 +52,9 @@ HTML:
 <div id="cards"></div>
 ```
 
-CSS:
+<br>
+
+**CSS:**
 ```css
 /* This is how I adjusted the grid */
 #cards{
@@ -76,7 +84,7 @@ CSS:
   }
 }
 ```
-
+<br>
 
 ### 🖋️ Reflection
 - What challenges did you face in designing a responsive layout?
@@ -107,10 +115,13 @@ I thought. Yes, it styles, but the style is very important!
 
 ### 📸 Screenshots
 > Show your miracle cards and one expanded view or modal.
-![Project-1-CSCI270-expandedmodal.png](Project-1-CSCI270-expandedmodal.png)
+
+![](Project-1-CSCI270-expandedmodal.png)
 
 ### 🔍 Code Snippets
 > Include the function you used to fetch the data, render the cards, and handle interaction.
+
+<br>
 
 ```js
 async function loadMiracles() {
@@ -166,7 +177,7 @@ loadMoreButton.addEventListener("click", async () => {
 
 loadMiracles();
 ```
-
+<br>
 
 ### 🖋️ Reflection
 - What did you learn about asynchronous JavaScript? What debugging techniques did you use or discover?<br>
