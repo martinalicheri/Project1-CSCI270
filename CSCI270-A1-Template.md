@@ -190,6 +190,12 @@ I noticed it in that the web didn't wait for the background image to load to dis
 ### 🖋️ Reflection
 How did using GitHub affect your development process? What new Git or GitHub skills did you gain?
 
+In all truth, I had barely used GitHub before; I only did the bare minimum for the assignment.<br>
+Now that I actually had to make a usable repo and a page using GitHub, I found it very confusing<br>
+at first, and had to struggle through it, but it started making more sense. In a way, then,<br>
+I think I gained all the beginner's skills, because I went from knowing nothing to being able<br>
+to make and use a repo for a personal project!
+
 ---
 
 ## 🧠 Final Reflection
@@ -197,7 +203,23 @@ How did using GitHub affect your development process? What new Git or GitHub ski
 *Imagine you're explaining this project to a friend who doesn’t code.<br>
 What does your app do? What are you most proud of? What was the hardest part to get working?*
 
+This website dynamically displays cards with information regarding certain miracles of the faith.<br>
+What I am most proud of is the first thing one sees when they open the app: the title and<br>
+background image. It took me quite a while to be able to figure out the position and size!<br>
+The hardest part for me was the **"Load More"** button. I did not know how to make them appear<br>
+dynamically when all the cards had been fetched already. However, it was very satisfying when<br>
+I thought of hidding them until the button was clicked!
+
 *Reflect on both the technical and the spiritual aspects of building a project about Catholic miracles.*
+
+This project, although it seemed very simple, took me a lot of time. I had to wrestle through a lot<br>
+of concepts in making it, even concepts that I thought I had understood. I have to say, making the<br>
+web about something religious gave me strength to keep going.<br>
+I think this relates a lot, too, to the spiritual life. One might think that he understands how things<br>
+go, but when the hour to put them into practice comes, then the truth shines. We can't to anything on<br>
+our own. Thankfully, we were able to access help from the internet and previous lessons. I could not<br>
+have done it without that external help. Because even if the main idea was there, sometimes a small<br>
+detail might prevent the whole website from working.
 
 ---
 
