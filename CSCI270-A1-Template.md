@@ -6,8 +6,8 @@ I DO NOT CONSENT TO AI ASSISTED GRADING
 **Course:** CSCI 270 – Web/Mobile App Development  <br>
 **Project Title:** MiracleDex  <br>
 **Submission Date:** Monday, June 9th<br>
-**GitHub Repo:** [Paste link here]  
-**Live Site (GitHub Pages):** [Paste link here]  
+**GitHub Repo:** https://github.com/martinalicheri/Project1-CSCI270
+**Live Site (GitHub Pages):** https://martinalicheri.github.io/
 
 ---
 
@@ -179,13 +179,13 @@ I noticed it in that the web didn't wait for the background image to load to dis
 ## 🔷 Part 3 — GitHub Repository and Documentation
 
 ### ✅ Requirements Addressed
-- [ ] GitHub repo created and pushed
-- [ ] GitHub Pages deployed
-- [ ] `README.md` contains project description, instructions, and screenshots
+- [X] GitHub repo created and pushed
+- [X] GitHub Pages deployed
+- [X] `README.md` contains project description, instructions, and screenshots
 
 ### 📎 Links
-- **GitHub Repo:** [Paste link here]  
-- **Live GitHub Pages Site:** [Paste link here]
+- **GitHub Repo:** https://github.com/martinalicheri/Project1-CSCI270
+- **Live GitHub Pages Site:** https://martinalicheri.github.io/
 
 ### 🖋️ Reflection
 How did using GitHub affect your development process? What new Git or GitHub skills did you gain?
